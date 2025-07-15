@@ -515,7 +515,7 @@ def main():
     
     # Footer
     st.markdown("---")
-    st.markdown("**E-commerce Analytics Dashboard** | Built with Streamlit")
+    st.markdown("**E-commerce Analytics Dashboard** ")
 
 if __name__ == "__main__":
     main()

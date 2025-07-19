@@ -3,8 +3,10 @@
 A **Streamlit-based analytics dashboard** for SMEs and online sellers to visualize and analyze GST-related sales data. This tool supports **Amazon**, **Flipkart**, and **Meesho** CSV exports, calculates core metrics like revenue and tax, and displays insightful visualizations using **Plotly** and **Pandas**.
 
 ##  Demo
-https://github.com/user-attachments/assets/5c07038d-ebf2-4e50-8fe3-fbf9b69553d3 
+https://github.com/user-attachments/assets/1c3cf118-6eb7-4d94-8ea2-1a8cdc230167
 
+Deployed Link : https://salesanalyzer.streamlit.app/
+ 
 ---
 
 ##  Features

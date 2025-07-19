@@ -20,8 +20,8 @@ A **Streamlit-based analytics dashboard** for SMEs and online sellers to visuali
 - **State-wise performance breakdown**
 - **Monthly sales trends**
 - **Product-wise performance (HSN codes)**
-- Interactive visualizations using Plotly
-- Fast, intuitive, and locally deployable
+- **Interactive visualizations using Plotly**
+- **Fast, intuitive, and locally deployable**
 
 ---
 
